@@ -1,6 +1,6 @@
 ### PDFs
 
-- [Smashing the Stack for fun and Profit - Aleph One ](https://avicoder.me/papers/smashthestack.pdf).
+- [Smashing the Stack for fun and Profit - Aleph One ](https://avicoder.me/papers/pdf/smashthestack.pdf).
 
 
 
