@@ -1,4 +1,9 @@
-# Papers
-Collection of papers that matters.
+### PDFs
 
- - [Smashing the stack for fun and Profit](https://avicoder.me/papers/smashthestack.pdf).
+- [Smashing the Stack for fun and Profit - Aleph One ](https://avicoder.me/papers/smashthestack.pdf).
+
+
+
+
+
+> *Create an issue [here](https://github.com/vjex/papers/issues) in case I made any mistake ;-) .*
